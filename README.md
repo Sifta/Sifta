@@ -1,16 +1,17 @@
-## Hi there 👋
+# Sifta
 
-<!--
-**Sifta/Sifta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## System Information
+- **OS**: Windows 10, iOS
+- **Uptime**: 22 years
+- **Host**: University of Zürich
+- **Kernel**: Informatik mit Naturwissenschaften; Computational Science
+- **IDE**: VSCode
 
-Here are some ideas to get you started:
+## Languages
+- **Programming**: Python, C++, C
+- **Computer**: LaTeX, Markdown
+- **Real**: English, German
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- **Email**: bryan.heimlicher@gmail.com
+- **LinkedIn**: [Bryan Heimlicher](https://www.linkedin.com/in/bryan-heimlicher-2021/)
