@@ -5,7 +5,6 @@
 - **Uptime**: 24 years
 - **Host**: University of Zürich
 - **Kernel**: Major: Computer Science; Minor: Computational Science
-- **IDE**: VSCode, Zed
 
 ## Languages
 - **Programming**: Python, C++, C
