@@ -13,4 +13,4 @@
 
 ## Contact
 - **Email**: bryanheimlicher@icloud.com
-- **LinkedIn**: [Bryan Heimlicher](https://www.linkedin.com/in/bryan-heimlicher-2021/)
+- **LinkedIn**: [Bryan Heimlicher](https://www.linkedin.com/in/bryan-heimlicher/)
